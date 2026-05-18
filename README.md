@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/royal-outlaw/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Royal Outlaw](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/royal-outlaw/) |
+| **Get License** | [Commercial Licensing for Royal Outlaw](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/royal-outlaw/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `1b9197996725b60fbac447bd246c2712fca2109b2274fcff6da1001e1eca93e6` |
 | **Timestamp** | May 18, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

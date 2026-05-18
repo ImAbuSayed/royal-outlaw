@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Royal Outlaw
+
+This log tracks the cryptographic history and versioning for the song **Royal Outlaw** (royal-outlaw).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-18T23:48:04.996505 | `v1` | `1b9197996725b60fbac447bd246c2712fca2109b2274fcff6da1001e1eca93e6` | `7fda70d53f9e32f55c6b57c6e596f4ee45711ac57256e39164def66a3cae2b0c` | `2026-05-18_royal-outlaw-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
